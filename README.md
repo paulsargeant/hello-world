@@ -1,2 +1,4 @@
 # hello-world
-Set-up practice
+Getting to know the Git
+
+All this just to read someone elses documents
